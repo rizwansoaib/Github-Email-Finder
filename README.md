@@ -9,3 +9,11 @@
 <h2 align="center">Find Email Addresses of Github users</h2>
 
 
+
+          git clone https://github.com/rizwansoaib/Github-Email-Finder.git
+          pip3 install requests
+          cd Github-Email-Finder
+          python3 run.py
+          
+
+
