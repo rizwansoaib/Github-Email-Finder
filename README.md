@@ -6,6 +6,6 @@
 
 </h6>
 
-<h2 align="center">Find email addresses of Github users</h2>
+<h2 align="center">Find Email Addresses of Github users</h2>
 
 
