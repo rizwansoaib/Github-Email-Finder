@@ -1,4 +1,3 @@
-# Github-Email-Finder
 
 <h1 align="center">
   <br>
