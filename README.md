@@ -1,3 +1,8 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  [![star this repo](http://githubbadges.com/star.svg?user=rizwansoaib&repo=Github-Email-Finder)](https://github.com/rizwansoaib/Github-Email-Finder)
+[![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=Github-Email-Finder)](http://github.com/rizwansoaib/Github-Email-Finder/fork)
+
+
+
 
 <h6 align="center">
   <br>
